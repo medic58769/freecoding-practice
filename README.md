@@ -1,2 +1,2 @@
 # freecoding-practice
-free coding prctice
+free coding practice
